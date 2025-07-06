@@ -1,0 +1,2 @@
+# Credit-Card-Behaviour-Score-Prediction-Using-Classification-and-Risk-Based-Techniques-
+The objective of this project was to build a predictive model to identify customers  likely to default on their credit obligations next month. Given the real-world nature of  the dataset, special care was taken to address class imbalance, financial  interpretability, and performance evaluation that aligns with business risk.
